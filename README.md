@@ -1,6 +1,6 @@
 # Aero Piramid
 
-![](/MouseZver/Piramid/blob/master/down.png?raw=true)
-![](/MouseZver/Piramid/blob/master/up.png?raw=true)
+![](https://raw.githubusercontent.com/MouseZver/Piramid/master/down.png)
+![](https://raw.githubusercontent.com/MouseZver/Piramid/master/up.png)
 
 Create by [MouseZver](https://php.ru/forum/members/40235)
